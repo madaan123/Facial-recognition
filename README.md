@@ -1,2 +1,3 @@
 # Facial-recognition
-Implementing facial and image recognition
+Implementing facial and object recognition
+
